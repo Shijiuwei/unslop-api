@@ -1,0 +1,5 @@
+title: "unslop-api"
+description: "A Claude skill that turns vibecoded, AI-looking UI into a designed interface - Modular design, zero-copy data pipelines and resilient clustering."
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links

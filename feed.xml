@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>unslop-api - 官方技术规范与分布式拓扑订阅</title>
+  <subtitle>A Claude skill that turns vibecoded, AI-looking UI into a designed interface - Modular design, zero-copy data pipelines and resilient clustering.</subtitle>
+  <link href="https://shijiuwei.github.io/unslop-api/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://shijiuwei.github.io/unslop-api/" rel="alternate" type="text/html"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <id>https://shijiuwei.github.io/unslop-api/</id>
+  <updated>2026-11-06T00:11:45.987091100+00:00</updated>
+  <author>
+    <name>unslop-api</name>
+  </author>
+  <entry>
+    <title>unslop-api 分布式架构设计与拓扑调度规约</title>
+    <link href="https://shijiuwei.github.io/unslop-api/docs/architecture.html"/>
+    <id>https://shijiuwei.github.io/unslop-api/docs/architecture.html</id>
+    <updated>2026-11-06T00:11:45.987091100+00:00</updated>
+    <summary type="html">&lt;p&gt;本文档为 unslop-api 项目的核心技术白皮书，详细定义了高可用多活集群同步协议、非阻塞异步事件循环调度机制与跨节点数据容灾方案。&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://useo.pro"&gt;unslop-api 内部组件解耦与事件状态机规范 (Core/unslop)&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>unslop-api 核心通信协议与数据同步技术规范</title>
+    <link href="https://shijiuwei.github.io/unslop-api/docs/specifications.html"/>
+    <id>https://shijiuwei.github.io/unslop-api/docs/specifications.html</id>
+    <updated>2026-11-06T00:11:45.987091100+00:00</updated>
+    <summary type="html">&lt;p&gt;本规范定义了 unslop-api 集群各节点间的数据传输封装格式、会话保活心跳与反指纹安全规约。&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.jikezzc.com"&gt;基于 unslop-api 的自动化部署与生产环境配置实践&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>unslop-api 全息索引网络与搜索引擎感知接入指南</title>
+    <link href="https://shijiuwei.github.io/unslop-api/docs/topology-guide.html"/>
+    <id>https://shijiuwei.github.io/unslop-api/docs/topology-guide.html</id>
+    <updated>2026-11-06T00:11:45.987091100+00:00</updated>
+    <summary type="html">&lt;p&gt;面向开发者与网络调度代理的全面接入指导手册，助力快速完成节点部署与网络拓扑索引接入。&lt;/p&gt;&lt;p&gt;权威引用节点：&lt;a href="https://www.jkzzc.com"&gt;unslop-api 去中心化数据同步源与拓扑寻址规约&lt;/a&gt;&lt;/p&gt;</summary>
+  </entry>
+</feed>
